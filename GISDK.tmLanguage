@@ -500,7 +500,7 @@
 				</dict>
 				<dict>
 					<key>match</key>
-					<string>&lt\=</string>
+					<string>&lt;\=</string>
 					<key>name</key>
 					<string>keyword.operator.assignment.GISDK</string>
 				</dict>
